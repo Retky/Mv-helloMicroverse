@@ -10,7 +10,7 @@
 * LinkedIn: [Retky](https://www.linkedin.com/in/Retky "J. Luis Arredondo LinkedIn")
 ## Show your support
 Give a :star: if you like this project!
-##Acknowledgments
+## Acknowledgments
 * Microverse
 ## License
 This project is MIT licensed.
